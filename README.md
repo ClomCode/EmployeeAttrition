@@ -1,6 +1,5 @@
 # EmployeeAttrition
-Employee Attrition Prediction Project
-
+Created an R script that uses machine learning techniques to predict whether an employee is likely to leave a company.
 
 Follow these steps to setup the R script named - "Main.R".
 
